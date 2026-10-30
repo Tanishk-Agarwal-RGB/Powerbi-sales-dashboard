@@ -4,8 +4,8 @@
 **Data:** Public dataset (source name)
 
 ## Key Insights
-- Insight 1
-- Insight 2
+- Sales Performance Analysis: Analyzed mobile sales trends across brands, models, cities, and time periods to identify revenue patterns and support data-driven business decisions.
+- Customer & Payment Insights: Evaluated customer ratings, payment-method preferences, and brand-wise sales distribution to understand purchasing behavior and product performance.
 
 ## Preview
 ![Dashboard](dashboard1.png)
